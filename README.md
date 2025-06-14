@@ -13,7 +13,7 @@ Landing page for codepretty
 
 ## Live Demo
 
-[Visit Code Pretty]([codepretty.netlify.app](https://codepretty.netlify.app/))
+[Visit Code Pretty](https://codepretty.netlify.app/)
 
 ## Built With
 
